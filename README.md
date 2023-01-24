@@ -1,2 +1,2 @@
-# NJACK_MiniProject_Todo_2101CB47
-Todo Project by react js
+Todo
+Todo Project done by using react js only.
